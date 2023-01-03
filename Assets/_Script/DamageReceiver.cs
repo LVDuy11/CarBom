@@ -4,7 +4,8 @@ using System.Data;
 using UnityEngine;
 
 public class DamageReceiver : MonoBehaviour
-{
+{   
+    //hehe
     [Header("DamageReceiver")]
     public int hp = 1;
     public virtual bool IsDead()
